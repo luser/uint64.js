@@ -1,0 +1,5 @@
+uint64.js provides a simple Uint64 class for working with unsigned 64-bit
+integers in JavaScript. It relies on Typed Arrays, so it's only suitable
+for use in certain browsers.
+
+I've only tested this in Firefox nightly builds, so YMMV.
